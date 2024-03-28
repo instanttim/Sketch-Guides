@@ -4,7 +4,10 @@
 
 ### Add Guides to edges and midpoints at once.
 
-**Version 2.1 update**
+**Version 2.5.4 update**
+- Legitimized my fork, to make it the "home" for appcast to autoupdate with my changes.
+
+**Version 2.5.3 update**
 - Sketch 99.^ support
     - Specifically updates to fix missing methods: MSLayer.absoluteRect and multiple NSRulerData methods
 
@@ -29,7 +32,7 @@ also can remove all guides.
 
 ## Usage
 Just press to lauch Interface Control Tool :
-**Shift + Ctrl + V**
+**Shift + Ctrl + G**
 
 
 ## Interface Control tool
@@ -39,13 +42,5 @@ Support intuition interface don't need to use hot-key anymore, that you can just
 
 
 ## Installing Plugins
-1. [Download](https://github.com/luvmex/Sketch-Guides/archive/master.zip) and unzip
-2. Double Click `Sketch Guides.sketchplugin` or put in sketch plugin folder.
-
-[![Install SketchGuides with Sketchpacks](http://sketchpacks-com.s3.amazonaws.com/assets/badges/sketchpacks-badge-install.png "Install SketchGuides with Sketchpacks")](https://sketchpacks.com/luvmex/Sketch-Guides/install)
-
-
-## Contact me
-* Email <celynxie@gmail.com>
-
-Feel free to contact me for any suggestions.
+1. [Download](https://github.com/instanttim/Sketch-Guides/releases/download/v2.5.4/Guides-v2.5.4.zip) and unzip
+2. Double Click `Guides.sketchplugin` or put in sketch plugin folder.
