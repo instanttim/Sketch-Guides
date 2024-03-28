@@ -4,12 +4,15 @@
 
 ### Add Guides to edges and midpoints at once.
 
-**Version 2.0 update**
-Fixed Ruler baseline in artboard.
-Available to set Guides without any artboard.
-Support plugin update in Sketch.
+**Version 2.1 update**
+- Sketch 99.^ support
+    - Specifically updates to fix missing methods: MSLayer.absoluteRect and multiple NSRulerData methods
 
-**Sketch 42.^ support**
+**Version 2.0 update**
+- Fixed Ruler baseline in artboard.
+- Available to set Guides without any artboard.
+- Support plugin update in Sketch.
+- Sketch 42.^ support
 
 
 [Landing Page](https://celynxie.com/sources/sketchguides.html)
