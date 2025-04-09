@@ -1,7 +1,7 @@
 {
     "name" : "Sketch Guides",
     "description" : "Add Guides to edges and midpoints at once.",
-    "author": "Timothy Martin (Originally Celyn Xie)",
+    "author": "Celyn Xie (maintained by Timothy Martin)",
     "authorEmail" : "celynxie@gmail.com",
     "homepage": "https://github.com/instanttim/Sketch-Guides",
     "version": "2.5.4",
